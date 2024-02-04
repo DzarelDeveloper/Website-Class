@@ -1,5 +1,9 @@
 ## VIEW RESULT
-<a href="https://expossenine.netlify.app/"rel=nofollow">
+<a href="https://expossenine.netlify.app/" rel="nofollow">
+  <button style="background-color: #2CA5E0; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    View
+  </button>
+</a>
 
 ## Download the Zip version of the Code on TELEGRAM 
 <a href="https://t.me/CodesphereCommunity" rel="nofollow">
