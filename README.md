@@ -13,4 +13,6 @@ document.write(unescape('%3c%73%70%61%6e%0d%0a%20%20%20%20%20%20%20%20%3e%4d%61%
 </script>
 ```
 
-The code is in the Footer
+The code is in the Footer,You Just Delete it and change it to This.
+
+
