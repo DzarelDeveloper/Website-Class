@@ -18,7 +18,7 @@ The code is in the Footer,You Just Delete it and change it to This.
 ```No Encrypt
       <span
         >Made by
-        <a href="https://www.instagram.com/mboii789_/" target="_blank">DzarelDeveloper
+        <a href="https://www.instagram.com/_4lghifari_/" target="_blank">DzarelDeveloper
 </span>
 ```
 
