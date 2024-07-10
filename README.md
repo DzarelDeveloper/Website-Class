@@ -1,13 +1,3 @@
-## VIEW RESULT
-<a href="https://expossenine.netlify.app/" rel="nofollow">
-  <button style="background-color: #2CA5E0; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; position: relative;">
-    <span style="display: flex; align-items: center;">
-      <i class="fas fa-eye" style="margin-right: 5px;"></i>
-      View Website
-    </span>
-  </button>
-</a>
-
 ## Download the Zip version of the Code on TELEGRAM 
 <a href="https://t.me/CodesphereCommunity" rel="nofollow">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
